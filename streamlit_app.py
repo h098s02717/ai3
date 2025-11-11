@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
        "texts": ["치킨은 토막낸 닭고기에 밀가루나 전분 등을 묻혀서 끓는 기름으로 튀긴 닭 요리다"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://lh3.googleusercontent.com/proxy/hyuJ8dVk5HXSvakvMAYgUJbO21b-SeIueZFzHg8D5TLRvw5lFFVaTJ223tKJiU_k9NyOf5ZvdEGQqhkfRt8HgXCuoaIqaPsDvAmDJKE15rY5_a_ZWAIjcqdbIxeTMz7BWxjVvdt_S71douZtzDdHat6-KOQbVKJJtLfAs0geGxLRnBYYQxN3SLQwGbut"],
        "videos": ["https://www.youtube.com/shorts/5Zz70V8d1mo"]
      },
 }
