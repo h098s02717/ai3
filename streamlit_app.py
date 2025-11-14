@@ -80,6 +80,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://gi.esmplus.com/lwwin2104/%EB%9D%B5%EA%B5%B4%EB%A7%88%EC%BC%93/%EB%B0%80%ED%82%A4%ED%8A%B8/%EC%89%AC%EB%A6%BC%ED%94%84%EB%A1%9C%EC%A0%9C%ED%8C%8C%EC%8A%A4%ED%83%80/%EC%89%AC%EB%A6%BC%ED%94%84%EB%A1%9C%EC%A0%9C%ED%8C%8C%EC%8A%A4%ED%83%80_%EC%A0%9C%ED%92%88%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg"],
        "videos": ["https://www.youtube.com/watch?v=bhbf8-kFEQU"]
      },
+
+         labels[2]: {
+       "texts": ["피자는 밀가루로 만든 반죽에 토마토 소스와 치즈 등 토핑을 얹어서 구워 내는 이탈리아 요리이다."],
+       "images": ["https://i.namu.wiki/i/c8HGD4ItiQU6eF-QHuqgrPjSi6XeAPVuN002tKOjfxldcN1lpivB-TUtNJ9zSlHQZL1ATDntaazwHeEsNM9W7e3Xm7ga10RiaUD1UmemyMKjVvz9kh47wn7x4K1uWJbHDPoOIBonF16SiuK1J9GTAQ.webp"],
+       "videos": ["https://www.youtube.com/watch?v=HKtvzlSuTn0"]
 }
 
 # ======================
