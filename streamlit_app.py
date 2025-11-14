@@ -86,6 +86,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://i.namu.wiki/i/c8HGD4ItiQU6eF-QHuqgrPjSi6XeAPVuN002tKOjfxldcN1lpivB-TUtNJ9zSlHQZL1ATDntaazwHeEsNM9W7e3Xm7ga10RiaUD1UmemyMKjVvz9kh47wn7x4K1uWJbHDPoOIBonF16SiuK1J9GTAQ.webp"],
        "videos": ["https://www.youtube.com/watch?v=HKtvzlSuTn0"]
 }
+}
 
 # ======================
 # 유틸
